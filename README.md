@@ -5,7 +5,7 @@
     <img src="https://imgur.com/Os03JoE.png" alt="Escudo UNAL" width="350px">
 </picture>
 
-<h3>Curso de Robótica 2025-I</h3>
+<h3>Curso de Robótica 2025-II</h3>
 
 <h1>Introducción a Turtlesim</h1>
 
